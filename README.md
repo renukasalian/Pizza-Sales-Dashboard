@@ -1,5 +1,5 @@
 # Pizza-Sales-Dashboard
-1. Pizza Sales Insights Dashboard
+1. Pizza Sales Insights Dashboard :
   A modern, interactive Power BI dashboard built to analyze pizza sales performance through dynamic KPIs, category-wise breakdowns, and detailed best/worst seller insights.
 
 2. Short Description / Purpose
